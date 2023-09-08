@@ -1,3 +1,8 @@
+-- CHECK OUT MY OTHER RELEASES HERE:
+-- https://av-scripts.tebex.io/
+-- https://av-scripts.tebex.io/
+-- https://av-scripts.tebex.io/
+
 Config = {}
 Config.Command = "weapon_skin"
 Config.Weapons = {
